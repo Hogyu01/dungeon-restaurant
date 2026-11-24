@@ -14,7 +14,7 @@
 
 </div>
 
-브라우저에서 바로 돌아가는 2D 탑다운 식당 경영 게임입니다. NHN 게임 AI 사전과제로 2026년 7월 30일부터 8월 2일까지 2인 팀으로 만들었고, 기획부터 구현·검증까지 AI 도구를 함께 썼습니다.
+브라우저에서 바로 돌아가는 2D 탑다운 식당 경영 게임입니다. 2026년 7월 30일부터 8월 2일까지 2인 팀으로 만들었고, 기획부터 구현·검증까지 AI 도구를 함께 썼습니다.
 
 | 4일 | 8 PR | 45 커밋 | 약 4.8만 줄 | 29/29 검증 통과 |
 |:---:|:---:|:---:|:---:|:---:|
@@ -71,8 +71,8 @@ flowchart LR
 ## 🚀 실행
 
 ```bash
-git clone https://github.com/Hogyu01/NHN.git
-cd NHN
+git clone https://github.com/Hogyu01/dungeon-restaurant.git
+cd dungeon-restaurant
 python3 -m http.server 8000   # 아무 정적 서버나 가능
 # 브라우저에서 http://localhost:8000 접속
 ```
